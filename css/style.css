@@ -1,0 +1,137 @@
+.conteiner{
+    max-width: 1640px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+.header-block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    height: 95px;
+}
+nav{
+    display: flex;
+}
+.nav-ul{
+    display: flex;
+    -webkit-box-align: center;
+    max-width: 1640px;
+    width: 100%;
+}
+.nav-li{
+    margin-right: 50px;
+    font-family: 'Archy-Thin';
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+a{
+    color: #707070;
+}
+.map{
+    max-width: 1640px;
+    width: 100%;
+    margin-bottom: 55px;
+}
+.inbox{
+    width: 100%;
+    max-width: 730px;
+    width: 100%;
+}
+
+.forms{
+    font-family: 'MPR';
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 23px;
+    box-shadow: 1px 1px 1px rgb(201, 199, 199);
+    border: rgb(202, 200, 200) 1px solid;
+ }
+label{
+    font-size: 23px;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+.textarea-group{
+    resize: none;
+    width: 100%;
+    padding: 12px 20px;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 112px;  
+    box-shadow: 1px 1px 1px rgb(201, 199, 199);
+    border: rgb(202, 200, 200) 1px solid;
+}
+.send{
+    margin-left: 80px;
+    background-color: #2E2E2E;
+    color: #fff;
+    border: none; 
+    width: 150px;
+    height: 52px;
+    text-transform: uppercase;
+    font-size: 21px;
+    margin-top: 40px;
+    margin-bottom: 210px;
+}
+footer{
+    background-color: #2E2E2E;
+    padding: 50px;
+    margin-top: 40px;
+    width: 100%;
+    
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact{
+    color: #F2F2F2;
+
+}
+.title{
+    font-size: 20px;
+    font-family: 'Archy-Thin';
+}
+.text{
+    font-size: 13px;
+    font-family: 'Archy-Thin';
+
+}
+.fab{
+    border: 2px solid #F2F2F2;
+    border-radius: 100%;
+    background-color: #fff;
+    width: 43px;
+    height: 43px;
+    color: #707070;
+    text-align: center;
+}
+.fa-instagram{
+    font-size: 30px;
+    padding-top: 5px;
+    margin-left: 30px;
+}
+.fa-facebook-f{
+    font-size: 30px;
+    padding-top: 5px;
+}

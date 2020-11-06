@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'Archy-Thin';
+    src: url('../fonts/archyedt-thin-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/archyedt-thin-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/archyedt-thin-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/archyedt-thin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/archyedt-thin-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/archyedt-thin-webfont.svg#archyedt-thinregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'MPR';
+    src: url('fonts/MyriadProRegular.eot');
+    src: url('fonts/MyriadProRegular.eot') format('embedded-opentype'),
+         url('fonts/MyriadProRegular.woff2') format('woff2'),
+         url('fonts/MyriadProRegular.woff') format('woff'),
+         url('fonts/MyriadProRegular.ttf') format('truetype'),
+         url('fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
+}
